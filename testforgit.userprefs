@@ -1,5 +1,11 @@
 ﻿<Properties StartupConfiguration="{609E9431-8AEB-48CB-9D03-163B62EA394A}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testforgit/testforgitPage.xaml">
+    <Files>
+      <File FileName="testforgit/App.xaml.cs" Line="22" Column="10" />
+      <File FileName="testforgit/App.xaml" Line="7" Column="1" />
+      <File FileName="testforgit/testforgitPage.xaml" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
